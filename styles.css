@@ -109,6 +109,11 @@ transition:.3s;
 background:#0056b3;
 transform:scale(1.05);
 }
+.icon{
+width:24px;
+height:24px;
+object-fit:contain;
+}
 
 /* FOOTER */
 footer{
@@ -128,3 +133,4 @@ font-size:2em;
 grid-template-columns:1fr;
 }
 }
+
